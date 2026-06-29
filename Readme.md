@@ -133,18 +133,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📸 Captures d'écran
-
-Vous pouvez ajouter ici des captures d'écran de :
-
-- Tableau de bord
-- Gestion des clients
-- Gestion des produits
-- Gestion des commandes
-- Facture PDF
-
----
-
 ## 👨‍💻 Auteur
 
 **BEBNONE FISSOUBO Abigail**
